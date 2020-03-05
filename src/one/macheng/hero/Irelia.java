@@ -2,19 +2,19 @@ package one.macheng.hero;
 
 public class Irelia {
     public void q() {
-        System.out.println("Q");
+        System.out.println("Irelia Q");
     }
 
     public void w() {
-        System.out.println("W");
+        System.out.println("Irelia W");
     }
 
     public void e() {
-        System.out.println("E");
+        System.out.println("Irelia E");
     }
 
     public void r() {
-        System.out.println("R");
+        System.out.println("Irelia R");
     }
 
 }
