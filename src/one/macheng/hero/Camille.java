@@ -1,6 +1,8 @@
 package one.macheng.hero;
 
-public class Camille {
+import one.macheng.ISkill;
+
+public class Camille implements ISkill {
     public void q() {
         System.out.println("Camille Q");
     }

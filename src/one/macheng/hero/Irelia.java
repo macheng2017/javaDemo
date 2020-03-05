@@ -1,6 +1,8 @@
 package one.macheng.hero;
 
-public class Irelia {
+import one.macheng.ISkill;
+
+public class Irelia  implements ISkill {
     public void q() {
         System.out.println("Irelia Q");
     }
